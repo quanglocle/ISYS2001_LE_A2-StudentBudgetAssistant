@@ -1,4 +1,4 @@
-# 💰 Student Budget Assistant
+# Student Budget Assistant
 
 A small finance assistant for international university students in Perth. Upload a month of bank transactions and it shows where your money went, checks your spending against budgets you set, plans a savings goal, and lets you ask **Penny**, a Gemini-powered budget coach, questions about your own numbers.
 
