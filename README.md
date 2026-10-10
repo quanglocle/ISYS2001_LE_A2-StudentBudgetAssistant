@@ -1,4 +1,4 @@
-# Student Budget Assistant
+# 💰 Student Budget Assistant
 
 A small finance assistant for international university students in Perth. Upload a month of bank transactions and it shows where your money went, checks your spending against budgets you set, plans a savings goal, and lets you ask **Penny**, a Gemini-powered budget coach, questions about your own numbers.
 
@@ -21,7 +21,7 @@ Students on a casual-job income lose track of small, frequent purchases (food de
 
 1. Open `finance_assistant.ipynb` in [Google Colab](https://colab.research.google.com/) (File → Upload notebook, or open it from GitHub).
 2. Get a free Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey).
-3. In Colab, click the  **Secrets** icon on the left, add a secret named `GEMINI_API_KEY` with your key, and switch on *Notebook access*. The key is never written in the notebook or this repository.
+3. In Colab, click the 🔑 **Secrets** icon on the left, add a secret named `GEMINI_API_KEY` with your key, and switch on *Notebook access*. The key is never written in the notebook or this repository.
 4. **Runtime → Run all.** The app appears under the `app.launch()` cell; the test results print at the bottom.
 
 Everything except the chat tab works without an API key. The notebook creates its own copy of the sample CSV files, so nothing needs to be downloaded or uploaded first.
