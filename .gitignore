@@ -1,0 +1,13 @@
+# Never commit secrets
+.env
+*.key
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Files the tests create
+data/wrong_columns.csv
+data/empty.csv
+data/only_header.csv
+data/only_income.csv
