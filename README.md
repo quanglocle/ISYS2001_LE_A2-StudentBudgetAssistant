@@ -79,6 +79,8 @@ data/
   second_student.csv         a different student, to show the results change with the data
   messy_transactions.csv     bad rows used to test error handling
 README.md
+DEVELOPER_DIARY.md           dated log of my decisions and AI use
+diary_images/                screenshots used in the diary
 requirements.txt
 .gitignore
 ```
